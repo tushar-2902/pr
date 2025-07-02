@@ -5,3 +5,5 @@ resource "azurerm_resource_group" "example" {
 
 #tushar mishra genertae pull request
 
+#adarsh changes
+
