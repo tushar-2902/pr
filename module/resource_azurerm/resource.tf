@@ -3,3 +3,5 @@ resource "azurerm_resource_group" "example" {
   location = var.location
 }
 
+#tushar mishra genertae pull request
+
